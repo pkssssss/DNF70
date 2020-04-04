@@ -2,9 +2,9 @@
 
 追忆70经典，客户端安装包，下载安装就可以玩！
 
-游戏下载 [http://t.cn/A6zLz8rL](http://t.cn/A6zLz8rL) （这个是游戏客户端，新人必须下载这个！）
+游戏下载 [http://suo.im/5O9SBW ](http://suo.im/5O9SBW ) （这个是游戏客户端，新人必须下载这个！）
 
-游戏补丁 [http://t.cn/A6zLzcIi](http://t.cn/A6zLzcIi)（这个不多解释，不懂的可以不用下载！）
+游戏补丁 [http://suo.im/6pGHE5 ](http://suo.im/6pGHE5 )（这个不多解释，不懂的可以不用下载！）
 
 ------
 
