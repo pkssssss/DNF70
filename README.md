@@ -2,9 +2,9 @@
 
 追忆经典，客户端安装包，下载安装就可以玩！
 
-游戏下载 [http://suo.im/65hF6X](https://cloud.189.cn/shareFileDownload.action?param=F8ED8B109BE56FA31B973522A862FFABCEAE3B88D08D092E9B97A6F0CFE9151CBA2C1D88953AEC4B624BA1AA8B27AA353F2440594F2ABC0478D5B579A58FEFD1)（这个是游戏客户端，新人必须下载这个！）
+游戏下载 [http://suo.im/65hF6X](http://suo.im/65hF6X)（这个是游戏客户端，新人必须下载这个！）
 
-游戏补丁 [http://suo.im/4Ms5By](https://cloud.189.cn/shareFileDownload.action?param=87A81AB4B46CF996525FBC42F8494F2E22C26374A0C83FEC60777061E95D58F17354A476D0B858FBC09506F828F7DD94A470D14CACA7E2699FE23D0C9BB6B689)（这个不多解释，不懂的可以不用下载！）
+游戏补丁 [http://suo.im/4Ms5By](http://suo.im/4Ms5By)（这个不多解释，不懂的可以不用下载！）
 
 ------
 
@@ -28,7 +28,7 @@ PS：建议每个新玩家加入本服满级工会（追忆70经典）有各种�
 
 Win10自带防火墙 会存在一定误杀通讯文件 ijl15.dll 导致登录无反应！所以给大家提供一键命令bat文件直接关闭！
 
-文件下载 [Windows10 关闭系统防护.bat](https://cloud.189.cn/shareFileDownload.action?param=0C6AD755FF272407A04FAE86F221CD34FC19DF07417479F6A483EB42227986359F9F15375A76C26F496CCA133C3A4F0703A1E9B5F79FDFFD2844A25B32DB3203) 记得使用管理员运行本文件~
+文件下载 [Windows10 关闭系统防护.bat](http://suo.im/6ta1Kn) 记得使用管理员运行本文件~
 
 如何重装，游戏核心服务组件！（新手请务必 理解下图中的意思！）
 
