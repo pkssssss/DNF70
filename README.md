@@ -2,7 +2,7 @@
 
 追忆经典，客户端安装包，下载安装就可以玩！
 
-游戏下载 [https://git.io/JfYXN](https://git.io/JfYXN)（这个是游戏客户端，新人必须下载这个！）
+游戏下载 [https://git.io/JfYMC](https://git.io/JfYMC)（这个是游戏客户端，新人必须下载这个！）
 
 游戏补丁 [https://git.io/JfYMm](https://git.io/JfYMm)（这个不多解释，不懂的可以不用下载！）
 
