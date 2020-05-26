@@ -2,9 +2,9 @@
 
 追忆经典，客户端安装包，下载安装就可以玩！
 
-游戏下载 [https://git.io/Jf4ze](https://git.io/Jf4ze)（这个是游戏客户端，新人必须下载这个！）
+游戏下载 [https://git.io/JfwXh](https://git.io/JfwXh)（这个是游戏客户端，新人必须下载这个！）
 
-游戏补丁 [https://git.io/Jf4RC](https://git.io/Jf4RC)（这个不多解释，不懂的可以不用下载！）
+游戏补丁 [https://git.io/Jfw1v](https://git.io/Jfw1v)（这个不多解释，不懂的可以不用下载！）
 
 ------
 
@@ -28,7 +28,7 @@ PS：建议每个新玩家加入本服满级工会（追忆70经典）有各种�
 
 Win10自带防火墙 会存在一定误杀通讯文件 ijl15.dll 导致登录无反应！所以给大家提供一键命令bat文件直接关闭！
 
-文件下载 [Windows10 关闭系统防护.bat](https://git.io/JfYXS) 记得使用管理员运行本文件~
+文件下载 [Windows10 关闭系统防护.bat](https://git.io/Jfw1Z) 记得使用管理员运行本文件~
 
 如何重装，游戏核心服务组件！（新手请务必 理解下图中的意思！）
 
